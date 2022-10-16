@@ -5,7 +5,7 @@ colorama==0.3.3
 dnet==1.12
 docopt==0.6.2
 dpkt==1.8.6
-impacket==0.9.12
+impacket==0.9.23
 iwlib==1.5
 libnl==0.2.0
 netaddr==0.7.14
@@ -27,7 +27,7 @@ colorama==0.3.3
 colorclass==1.2.0
 docopt==0.6.2
 dpkt==1.8.6
-impacket==0.9.12
+impacket==0.9.23
 libnl==0.2.0
 netlink==1.0
 pbkdf2==1.3
